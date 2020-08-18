@@ -1,0 +1,28 @@
+
+/* Color Theme Swatches in HSLA */
+.Hyper-Chrome-1-hsla { color: hsla(354, 87, 59, 1); }
+.Hyper-Chrome-2-hsla { color: hsla(320, 96, 48, 1); }
+.Hyper-Chrome-3-hsla { color: hsla(270, 75, 14, 1); }
+.Hyper-Chrome-4-hsla { color: hsla(264, 72, 8, 1); }
+.Hyper-Chrome-5-hsla { color: hsla(258, 96, 28, 1); }
+
+body {
+    background-color: #1f0846;
+    
+}
+
+.grid {
+    display: grid;
+}
+
+.x {
+    background-image: url("/assets/X.png");
+    width: 512px;
+    height: 512px;
+}
+
+.o {
+    background-image: url("/assets/O.png");
+    width: 512px;
+    height: 512px;
+}
